@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: darkgray;
+}
+
+.header, .footer{
+    background-color: red;
+    min-height: 10vh;
+}
+
+.content{
+    min-height: 80vh;
+    background-color: blue;
+}
